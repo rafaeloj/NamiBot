@@ -8,6 +8,7 @@ De acordo com o andamento do projeto deve ser atualizado!
 * [Python](https://www.python.org/): Linguagem de programação de sintaxe simples;
 * [Discord Developer Portal](https://discord.com/developers/applications): Site para registrar sua aplicação/bot
 * [Discord.py](https://discordpy.readthedocs.io/en/latest/) API de integração com Discord
+* [Pytube](https://pytube.io/en/latest/) Biblioteca para trabalhar com youtube
 ## Observações
 * Ferramenta está sendo desenvolvida com a versão Python 3.9.7, não há garantia que funcionará corretamente com versões anteriores. 
 ## Tarefas:
