@@ -5,6 +5,7 @@ class PlayList():
         self.__songs   = []
         self.__current = 0
         self.__size = 0
+        
     def __str__(self):
         output_string = ""
         for i, music in enumerate(self.__songs):
@@ -56,17 +57,5 @@ class PlayList():
         self.__songs.insert(index_B,tmp_song)
         self.__songs.pop(index_B+1)
 
-# def main():
-    # pl = PlayList()
-    # pl.add_music(YouTube("https://www.youtube.com/watch?v=7zok9co_8E4"))
-    # pl.add_music(YouTube("https://www.youtube.com/watch?v=fPO76Jlnz6c"))
-    # pl.add_music(YouTube("https://www.youtube.com/watch?v=fUpdfpOPf4Y"))
-    # prev_0 = pl[0]
-    # prev_1 = pl[2]
-    # pl.mv_music(0,2)
-    # current_1 = pl[2]
-    # current_0 = pl[0]
-    # print(prev_0,prev_1)
-    # print(current_0,current_1)
 if __name__ == "__main__":
     main()
