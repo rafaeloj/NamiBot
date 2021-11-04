@@ -23,6 +23,7 @@ De acordo com o andamento do projeto deve ser atualizado!
     * Tocar música dentro do discord
     * Pular para próxima música
     * Voltar para música anterior
+    * Temporizador para pular para próxima música automaticamente
 
 ## O que deve fazer?
 <ul>
@@ -33,5 +34,4 @@ De acordo com o andamento do projeto deve ser atualizado!
     <li>Excluir uma música da playlist</li>
     <li>Mudar a ordem das músicas</li>
     <li>Limpar fila de músicas</li>
-    <li>Temporizador para pular para próxima música automaticamente</li>
 </ul>
